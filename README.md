@@ -36,11 +36,7 @@
 <code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
 <code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
 <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
-<br/>
-<br/>  
 <code><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"></code>
-<br/>
-<br/>
 <code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
